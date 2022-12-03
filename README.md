@@ -4,4 +4,4 @@
 123Movies/GoMovies Script is an easy automated system that lets you make a movie & tv series website within minutes.
 
 <h3>Online Demo</h3>
-<a href="https://ww1.123movieshub.tc/" target="_blank">123Movies</a>
+<a href="https://ww1.123moviehub.org/" target="_blank">123Movies</a>
